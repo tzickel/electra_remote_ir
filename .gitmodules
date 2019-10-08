@@ -1,0 +1,6 @@
+[submodule "ir/pigpio"]
+	path = ir/pigpio
+	url = https://github.com/joan2937/pigpio.git
+[submodule "ir/ir-slinger"]
+	path = ir/ir-slinger
+	url = https://github.com/bschwind/ir-slinger

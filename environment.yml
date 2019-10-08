@@ -1,0 +1,5 @@
+name: ir
+dependencies:
+- matplotlib
+- jupyter
+- flask
